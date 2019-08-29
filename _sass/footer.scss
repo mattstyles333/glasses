@@ -1,4 +1,5 @@
 footer {
+	background: #274060;
 	padding: 50px 0 50px 0;
 	font-size: 1.1.1rem;
 	position: relative;
@@ -61,7 +62,7 @@ footer {
 
 		p {
 			font-size: 1.1rem;
-			color: #999;
+			color: white;
 		}
 
 		.email {
@@ -69,8 +70,15 @@ footer {
 		}
 
 		h4 {
+			color: white;
 			margin: 0 0 1.1rem 0;
 			font-size: .9em;
+		}
+		span {
+			color: white;
+		}
+		a {
+			color: white;
 		}
 	}
 
