@@ -1,5 +1,7 @@
-- name: Products
-  link: /
+- name: Glasses
+  link: /glasses
+- name: Sunglasses
+  link: /sunglasses
   new_window: false
   highlight: false
 - name: Our Story
