@@ -1,15 +1,11 @@
 ---
 name:
-garment_type: top
+type: glasses
+brand:
 price:
 sku:
 description:
 sizes:
-  - XS
-  - Small
-  - Medium
-  - Large
-  - XL
 styles:
   - name:
     color:
