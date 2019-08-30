@@ -1,3 +1,7 @@
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+}
 .container, .text-container {
 	margin: 0 auto;
 	position: relative;
@@ -7,15 +11,19 @@
 .text-container {
 	max-width: 750px;
 }
+.row {
+	display: inline;
+	img {
 
-.container {
-	max-width: 2000px;
+	}
+	.blurb-right {
+		line-height: 200px;
+		float:right;
+		border: solid;
 
-	&.max-container {
-		max-width: 100%;
-		padding: 0;
 	}
 }
+
 
 .hero {
 	color: #ffffff;
