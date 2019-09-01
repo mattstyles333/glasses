@@ -1,5 +1,5 @@
 
-  
+
 html, body {
     max-width: 100%;
     overflow-x: hidden;
@@ -26,7 +26,19 @@ html, body {
 	}
 }
 
-
+#top-left {
+	background-image: url(https://cdn.pixabay.com/photo/2017/09/01/21/53/blue-2705642_960_720.jpg)
+}
+#text-overlay {
+	background: black;
+	opacity: 0.75;
+	text-align: center;
+}
+#category {
+	background: white;
+	opacity: 0.75;
+	text-align: center;
+}
 .hero {
 	color: #ffffff;
 	text-align: center;
