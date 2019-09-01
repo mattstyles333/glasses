@@ -9,7 +9,9 @@ subtitle: The best glasses company in the world!
 		<div class="container">
 			<p class="editor-link" style="text-align: center;"><a href="cloudcannon:collections/_products" class="btn"><strong>&#9998;</strong> Manage products</a></p>
 			<ul class="product-list">
+				
 				{% for product in site.products %}
+				{% if product.type == 'sunglasses' %}
 					<li>
 						{% include product-styles.html product=product %}
 						<div class="product-details">
@@ -20,7 +22,9 @@ subtitle: The best glasses company in the world!
 							<p>${{ product.price }}</p>
 						</div>
 					</li>
+					{% endif %}
 				{% endfor %}
+
 				<li></li>
 				<li></li>
 				<li></li>
