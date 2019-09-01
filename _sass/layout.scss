@@ -25,8 +25,18 @@ html, body {
 
 	}
 }
+#border-box-grey {
 
+}
+#border-box-black {
+
+}
+#icon-grid {
+	border-bottom:solid;
+}
 #top-left {
+
+	border-width: 3px;
 	background-image: url(https://cdn.pixabay.com/photo/2017/09/01/21/53/blue-2705642_960_720.jpg)
 }
 #text-overlay {
@@ -71,8 +81,12 @@ html, body {
 	display: inline-block;
 	position: relative;
 	top: 4px;
+
 	a {
 		display: block;
+	}
+	a:hover {
+		color:black;
 	}
 
 	png {
@@ -88,6 +102,7 @@ html, body {
 		left: 3px;
 	}
 }
+
 
 .screenshot{
 	height: auto;
