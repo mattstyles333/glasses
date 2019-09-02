@@ -1,6 +1,6 @@
-## Fur
+## Glasses & Shades - built with cloudcannon jekyll starter called Fur
 
-E-commerce template for Jekyll. Browse through a [live demo](https://turquoise-rook.cloudvent.net).
+E-commerce with Jekyll. Browse through a [live demo](https://turquoise-rook.cloudvent.net).
 
 ![Fur template screenshot](images/_screenshot.png)
 
@@ -17,12 +17,6 @@ Find more templates, themes and Jekyll tutorials at [CloudCannon Academy](https:
 * RSS/Atom feed
 * SEO tags
 * Google Analytics
-
-## Setup
-
-1. Add your site and author details in `_config.yml`.
-2. Add your Google Analytics, Google Maps API key and [SnipCart key](https://snipcart.com/) to `_config.yml`.
-3. Get a workflow going to see your site's output (with [CloudCannon](https://app.cloudcannon.com/) or Jekyll locally).
 
 ## Develop
 
@@ -42,7 +36,7 @@ $ bundle exec jekyll serve
 
 ## Editing
 
-Fur is already optimised for adding, updating and removing products and editing the navigation and footer in CloudCannon.
+Optimised for adding, updating and removing products and editing the navigation and footer in CloudCannon.
 
 ### Posts
 
