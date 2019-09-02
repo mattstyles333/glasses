@@ -2,12 +2,6 @@
 
 E-commerce with Jekyll. Browse through a [live demo](https://turquoise-rook.cloudvent.net).
 
-![Fur template screenshot](images/_screenshot.png)
-
-Fur was made by [CloudCannon](http://cloudcannon.com/), the Cloud CMS for Jekyll.
-
-Find more templates, themes and Jekyll tutorials at [CloudCannon Academy](https://learn.cloudcannon.com/).
-
 ## Features
 
 * List product with multiple colours and sizes
@@ -20,7 +14,7 @@ Find more templates, themes and Jekyll tutorials at [CloudCannon Academy](https:
 
 ## Develop
 
-Fur was built with [Jekyll](http://jekyllrb.com/) version 3.4.3, but should support newer versions as well.
+Built with [Jekyll](http://jekyllrb.com/) version 3.4.3, but should support newer versions as well.
 
 Install the dependencies with [Bundler](http://bundler.io/):
 
