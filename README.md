@@ -1,6 +1,6 @@
 ## Glasses & Shades - built with cloudcannon jekyll starter called Fur
 
-E-commerce with Jekyll. Browse through a [live demo](https://turquoise-rook.cloudvent.net).
+E-commerce with Jekyll. Browse through the [live site](https://glassesandshades.com).
 
 ## Features
 
