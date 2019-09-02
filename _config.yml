@@ -87,6 +87,12 @@ social_icons:
   - YouTube
   - RSS
 
+
+algolia:
+  application_id: 'FCPMIBF9CV'
+  index_name: 'main'
+  search_only_api_key: '11340582829714b53d2d20c667804bb7'
+
 _comments:
   map: Update the map location and display settings.
   latitude: Coordinates for the center marker on the map.

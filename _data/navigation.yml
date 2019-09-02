@@ -12,3 +12,7 @@
   link: /contact/
   new_window: false
   highlight: false
+- name: Search
+  link: /search/
+  new_window: false
+  highlight: false

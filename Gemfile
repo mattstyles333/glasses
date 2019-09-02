@@ -10,4 +10,5 @@ gem "ffi", ">= 1.9.24"
 group :jekyll_plugins do
   gem 'jekyll-seo-tag', '2.4.0'
   gem 'jekyll-sitemap', '1.2.0'
+  gem 'jekyll-algolia', '~> 1.0'
 end
