@@ -25,6 +25,25 @@ html, body {
 
 	}
 }
+.im {
+	background: url('/images/sunglasses-banner.jpg') no-repeat center center;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+$blVal: 2px;
+
+.blur{
+  -webkit-filter: blur($blVal);
+  -moz-filter: blur($blVal);
+  -o-filter: blur($blVal);
+  -ms-filter: blur($blVal);
+  filter: blur($blVal);
+}
+
+
 #border-box-grey {
 
 }
@@ -34,10 +53,31 @@ html, body {
 #icon-grid {
 	border-bottom:solid;
 }
-#top-left {
+.mens-glasses {
+	background-image: url('/images/glasses-men.jpg');
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
 
-	border-width: 3px;
-	background-image: url(https://cdn.pixabay.com/photo/2017/09/01/21/53/blue-2705642_960_720.jpg)
+}
+.womens-glasses {
+	background-image: url('/images/glasses-women.jpg');
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+.mens-sunglasses {
+	background-image: url('/images/sunglasses-men.jpg');
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+#womens-sunglasses {
+
+	background-image: url(https://cdn.pixabay.com/photo/2017/09/01/21/53/blue-2705642_960_720.jpg);
 }
 #text-overlay {
 	background: black;
