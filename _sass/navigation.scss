@@ -23,7 +23,7 @@ header {
 
 
 	a {
-		color: #fff;
+		color: $font-color;
 		text-decoration: none;
 		z-index: 1;
 		position: relative;
@@ -49,7 +49,7 @@ nav {
 		margin: 0 3px;
 		padding: 20px 10px;
 		border-bottom: 1px solid rgba(255,255,255,0);
-		color: rgba(255,255,255,.6);
+		color: $font-color;
 		transition: 200ms ease-in color;
 		display: none;
 
@@ -88,6 +88,7 @@ nav {
 		line-height: 1;
 
 		i {
+			color: $font-color;
 			font-size: 22px;
 			line-height: 1;
 			display: inline-block;

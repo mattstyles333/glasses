@@ -2,7 +2,8 @@
 
 html, body {
     max-width: 100%;
-    overflow-x: hidden;
+	overflow-x: hidden;
+	background: $background-color;
 }
 .container, .text-container {
 	margin: 0 auto;
@@ -25,6 +26,11 @@ html, body {
 
 	}
 }
+
+.main {
+	background: $background-color;
+}
+
 .im {
 	background: url('/images/sunglasses-banner.jpg') no-repeat center center;
 	-webkit-background-size: cover;
@@ -75,10 +81,7 @@ $blVal: 2px;
 	-o-background-size: cover;
 	background-size: cover;
 }
-#womens-sunglasses {
 
-	background-image: url(https://cdn.pixabay.com/photo/2017/09/01/21/53/blue-2705642_960_720.jpg);
-}
 #text-overlay {
 	background: black;
 	opacity: 0.75;

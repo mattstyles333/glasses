@@ -9,7 +9,7 @@ google_maps_javascript_api_key: "AIzaSyAjXrXbvEnGlQKT6g5ByKMgXVlEHufjqbM"
 snipcart_key: "ODE1YzU1NzAtMDlmZi00MjQzLThlYTItMmI3NTEzYjY1OWVhNjM3MDI0NDQxOTMwMDY0Mjcx"
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
-logo: /siteicon.png
+logo: /images/icon.png
 description: Glasses & Shades
 author:
   name: fur
